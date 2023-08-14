@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400;500&display=swap');
+
+
+$base-color: #c6538c;
+$border-dark: rgba($base-color, 0.88);
+$font-stack: 'Roboto Mono', sans-serif;
+
+.pacific54-form {
+    
+    margin: 0 auto;
+    padding: 10px;
+    
+    h3 {
+        font-family: $font-stack;
+        color: $base-color;
+    }
+    .field {
+        margin: 10px 0;
+    }
+    label {
+        font-family: $font-stack;
+        color: $base-color;
+        display: block;
+    }
+    textarea {
+        max-width: 20rem;
+    }
+}

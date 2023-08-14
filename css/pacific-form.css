@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400;500&display=swap");
+.pacific54-form {
+  margin: 0 auto;
+  padding: 10px; }
+  .pacific54-form h3 {
+    font-family: "Roboto Mono", sans-serif;
+    color: #c6538c; }
+  .pacific54-form .field {
+    margin: 10px 0; }
+  .pacific54-form label {
+    font-family: "Roboto Mono", sans-serif;
+    color: #c6538c;
+    display: block; }
+  .pacific54-form textarea {
+    max-width: 20rem; }
+
+/*# sourceMappingURL=pacific-form.css.map */
